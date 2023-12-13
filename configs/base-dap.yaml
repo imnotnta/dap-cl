@@ -29,6 +29,6 @@ SOLVER:
 DATA:
   NAME: ""
   NUMBER_CLASSES: -1
-  BATCH_SIZE: 4
+  BATCH_SIZE: 1
   DATAPATH: "./dataset"
   FEATURE: "sup_vitb16_imagenet21k"

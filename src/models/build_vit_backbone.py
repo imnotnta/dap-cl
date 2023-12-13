@@ -12,6 +12,7 @@ from .vit_dap.vit import ADPT_VisionTransformer
 
 MODEL_ZOO = {
     "sup_vitb16_imagenet21k": "imagenet21k_ViT-B_16.npz",
+    "sam_vitb16":"sam_ViT-B_16.npz"
 }
 
 def build_vit_sup_models(

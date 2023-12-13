@@ -120,7 +120,7 @@ _C.DATA.CLASS_WEIGHTS_TYPE = "none"
 _C.DATA.CROPSIZE = 224  # or 384
 
 _C.DATA.NO_TEST = False
-_C.DATA.BATCH_SIZE = 32
+_C.DATA.BATCH_SIZE = 16
 # Number of data loader workers per training process
 _C.DATA.NUM_WORKERS = 4
 # Load data to pinned host memory
